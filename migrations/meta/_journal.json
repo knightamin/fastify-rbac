@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712485403503,
+      "tag": "0000_ancient_sprite",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1712486480179,
+      "tag": "0001_wild_kabuki",
+      "breakpoints": true
+    }
+  ]
+}
